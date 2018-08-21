@@ -2,7 +2,7 @@
     "name": "Darkcraft Sample Deps",
     "version": "0.1",
     "desc": "This mod does absolutely nothing other than test the MPM Deps system",
-    "installDir": "mods/sample2",
+    "installDir": "mods/sample2 ",
     "category": "util",
-    "deps": ["Darkcraft Sample"]
+    "deps": ["Darkcraft Sample", "BADDEP"]
 }
